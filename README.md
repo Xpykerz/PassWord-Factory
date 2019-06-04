@@ -26,8 +26,7 @@ apt-get install python2
 apt-install git
 git Clone https://github.com/Xpykerz/PassWord-Factory.git
 cd PassWord-Factory
-chmod +x PassFact.py
-./PassFact.py
+python2 PassFact.py
 ```
 
 ## ScreenShot
