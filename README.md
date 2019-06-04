@@ -1,6 +1,6 @@
 # PassWord Factory
 
-   PassWord Factory is a wordlist generator where you can specify a standard character set or a character set you specify. crunch can generate all possible combinations and permutations.PassWord Factory is Developed by @Xpykerz for Pentesters. The scriPT is writen is python. This tool will works on both Linux,Windows and Android by using python.
+   PassWord Factory is a wordlist generator where you can specify a standard character set or a character set you specify. crunch can generate all possible combinations and permutations.PassWord Factory is Developed by @Xpykerz for Pentesters. The script is writen is python. This tool will works on both Linux,Windows and Android by using python.
 
 ## Installation
 
