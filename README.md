@@ -30,6 +30,9 @@ chmod +x PassFact.py
 ./PassFact.py
 ```
 
+## ScreenShot
+![image](https://github.com/Xpykerz/PassWord-Factory/blob/master/Screenshot.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
