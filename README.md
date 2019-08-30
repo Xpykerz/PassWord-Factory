@@ -10,7 +10,7 @@ In Linux
 
 ```
 apt-get update && apt-get upgrade
-apt get install python
+apt install python
 apt install git
 git Clone https://github.com/Xpykerz/PassWord-Factory.git
 cd PassWord-Factory
@@ -22,7 +22,7 @@ In Android
 
 ```
 apt-get update && apt-get upgrade
-apt get install python2
+apt install python2
 apt install git
 git Clone https://github.com/Xpykerz/PassWord-Factory.git
 cd PassWord-Factory
