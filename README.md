@@ -1,41 +1,49 @@
 # PassWord Factory
 
-   PassWord Factory is a wordlist generator where you can specify a standard character set or a character set you specify. PassWord Factory can generate all possible combinations and permutations.PassWord Factory is Developed by @Xpykerz for Pentesters. The script is writen is python. This tool will works on both Linux,Windows and Android by using python.
+PassWord Factory is a versatile wordlist generator designed for penetration testers and security enthusiasts. It allows users to create wordlists by specifying either a standard or custom character set. The tool generates all possible combinations and permutations efficiently. Developed by @Xpykerz, PassWord Factory is written in Python and is compatible with Linux, Windows, and Android platforms.
+
+## Features
+- Generate wordlists with custom or standard character sets.
+- Supports all possible combinations and permutations.
+- Cross-platform compatibility (Linux, Windows, Android).
 
 ## Installation
 
-Instaling PassWord Factory
+### For Linux
+Follow these steps to install and run PassWord Factory on Linux:
 
-In Linux
-
-```
-apt-get update && apt-get upgrade
-apt install python
-apt install git
-git Clone https://github.com/Xpykerz/PassWord-Factory.git
+```bash
+sudo apt-get update && sudo apt-get upgrade
+sudo apt install python
+sudo apt install git
+git clone https://github.com/Xpykerz/PassWord-Factory.git
 cd PassWord-Factory
 chmod +x PassFact.py
 ./PassFact.py
 ```
 
-In Android
+### For Android
+Follow these steps to install and run PassWord Factory on Android:
 
-```
+```bash
 apt-get update && apt-get upgrade
 apt install python2
 apt install git
-git Clone https://github.com/Xpykerz/PassWord-Factory.git
+git clone https://github.com/Xpykerz/PassWord-Factory.git
 cd PassWord-Factory
 python2 PassFact.py
 ```
 
-## ScreenShot
-![image](https://github.com/Xpykerz/PassWord-Factory/blob/master/Screenshot.png)
+## Screenshot
+Below is a screenshot of PassWord Factory in action:
+
+![PassWord Factory Screenshot](https://github.com/Xpykerz/PassWord-Factory/blob/master/Screenshot.png)
 
 ## Contributing
+We welcome contributions to improve PassWord Factory. If you have suggestions for major changes, please open an issue to discuss them first. Pull requests are encouraged, and we kindly ask contributors to ensure that tests are updated as necessary.
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-Please make sure to update tests as appropriate.
-
-# By @Xpykerz
+---
+Developed with ❤️ by [@Xpykerz](https://github.com/Xpykerz).
